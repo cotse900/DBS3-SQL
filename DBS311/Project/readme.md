@@ -1,1 +1,3 @@
-
+This folder records Assignment 1 and Assignment 2 which are the same project.
+In A1, I made up SQL entries and as group work we wrote a simple select statement in a C++ application. In A2, there are a user guide, a long C++ file, and a SQL file of both stored procedures and non-saved, aka anonymous block, procedural code.
+My guys probably did run everything smoothly, whereas on my machine at the time of writing could not load "Course" (read function). However, I keep them as is and they are a good demonstration of some basic CRUD functionalities you can find in a database app written in C++ and Oracle SQL.
