@@ -16,3 +16,7 @@ Public github demonstration of my prior work:
 I own copyright to my individual and group work, whereas I don't own copyrights of things that I didn't write, esp. assignment and project topics.
 Purely for demonstration and storage purposes. Do not copy anything or you would do so at your own risk.
 My answers in all labs except lab6 were also "lab answers".
+
+A demonstration of my DBS311 project is here:
+
+# https://youtu.be/0iNc4DdqGa0
